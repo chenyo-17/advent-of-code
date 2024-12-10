@@ -1,0 +1,32 @@
+[package]
+name = "aoc-2024"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+regex = "1.11.1"  # day 3
+itertools = "0.13.0"  # day 4
+
+# [[bin]]
+# name = "1"
+# path = "1/sol.rs"
+
+# [[bin]]
+# name = "2"
+# path = "2/sol.rs"
+
+# [[bin]]
+# name = "3"
+# path = "3/sol.rs"
+
+# [[bin]]
+# name = "4"
+# path = "4/sol.rs"
+
+# [[bin]]
+# name = "5"
+# path = "5/sol.rs"
+
+[[bin]]
+name = "6"
+path = "6/sol.rs"
