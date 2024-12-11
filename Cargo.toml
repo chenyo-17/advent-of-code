@@ -27,6 +27,10 @@ itertools = "0.13.0"  # day 4
 # name = "5"
 # path = "5/sol.rs"
 
+# [[bin]]
+# name = "6"
+# path = "6/sol.rs"
+
 [[bin]]
-name = "6"
-path = "6/sol.rs"
+name = "7"
+path = "7/sol.rs"
